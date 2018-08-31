@@ -3,3 +3,14 @@
 @import "resets";
 @import "base";
 @import "home";
+
+
+@font-face {
+    font-family: Aduma;
+    src: url(../assets/aduma-regular-webfont.woff);
+}
+
+@font-face {
+    font-family: OpenSansHebrew;
+    src: url(../assets/OpenSansHebrew-Regular.ttf);
+}
